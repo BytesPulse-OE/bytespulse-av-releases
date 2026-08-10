@@ -15,7 +15,7 @@ LOG_DIR="/var/log/bpav"
 PLUGIN_DIR="/usr/local/hestia/plugins/bytespulse-av"
 HESTIA_CUSTOM="/usr/local/hestia/web/src/app/WebApp/Plugins"
 
-REPO_BASE="https://github.com/BytesPulse-OE/bytespulse-av/releases/latest/download"
+REPO_BASE="https://github.com/BytesPulse-OE/bytespulse-av-releases/releases/latest/download"
 
 step()  { echo -e "\n${BOLD}${GRN}[✓]${NC} $1"; }
 warn()  { echo -e "${YEL}[!]${NC} $1"; }
