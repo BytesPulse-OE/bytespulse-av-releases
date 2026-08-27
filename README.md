@@ -27,6 +27,14 @@ curl -fsSL https://raw.githubusercontent.com/BytesPulse-OE/bytespulse-av-release
 
 ---
 
+## Uninstall
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/BytesPulse-OE/bytespulse-av-releases/main/uninstall.sh | sudo bash
+```
+
+---
+
 ## Build from source
 
 ```bash
